@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1559506351 source:/home/redes/Proyecto/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<unistd.h>
+	<stdint.h>
+	<inttypes.h>
+
